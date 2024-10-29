@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "8a94720a0bb1fc99",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e595b567de0d4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86bb9ecfa805734c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Security+/1.Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1299cc612be5ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Security+/Confidentiality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19bf6ed1b732d7d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebf1e5fe8ed4207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f679eb869a509a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4cae3a59d2a24f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f03063ad736ce20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "71385ce0ef7b8853",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d94d3b0c95d1ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9131f0ac047b5f3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CompTIA Security+/Confidentiality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6f138b5063bca11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CompTIA Security+/Confidentiality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ddcd0ff305230b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9502413caeceafb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CompTIA Security+/Confidentiality.md"
+              }
+            }
+          },
+          {
+            "id": "3f8a0d0b601b7d83",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b1299cc612be5ae4",
+  "lastOpenFiles": [
+    "CompTIA Security+/2.Ameaças e vulnerabilidades.md",
+    "CompTIA Security+/1.Fundamentos.md",
+    "CompTIA Security+/Confidentiality.md",
+    "().md",
+    "Confiden.md",
+    "CompTIA Security+",
+    "BD/4 - Sumário Detalhado dos Materiais sobre Banco de Dados.md",
+    "BD/2 - Guia de Estudo de Banco de Dados.md",
+    "BD/3 - Briefing Doc - Modelagem de Banco de Dados Relacional e SQL.md",
+    "BD/3 - Banco de Dados e Modelagem Relacional - Perguntas Frequentes.md",
+    "BD.rar",
+    "BD/1 - Plano de Estudo e Resumos para a Prova.md",
+    "1.md",
+    "Welcome.md",
+    "BD"
+  ]
+}
