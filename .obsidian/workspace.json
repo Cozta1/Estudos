@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Security+/Confidentiality.md",
+                "file": "CompTIA Security+/Integrity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA Security+/Confidentiality.md",
+                "file": "CompTIA Security+/1.Fundamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CompTIA Security+/Confidentiality.md",
+                "file": "CompTIA Security+/1.Fundamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CompTIA Security+/Confidentiality.md"
+                "file": "CompTIA Security+/1.Fundamentos.md"
               }
             }
           },
@@ -168,11 +167,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1299cc612be5ae4",
+  "active": "86bb9ecfa805734c",
   "lastOpenFiles": [
-    "CompTIA Security+/2.Ameaças e vulnerabilidades.md",
-    "CompTIA Security+/1.Fundamentos.md",
     "CompTIA Security+/Confidentiality.md",
+    "CompTIA Security+/Integrity.md",
+    "CompTIA Security+/1.Fundamentos.md",
+    "CompTIA Security+/2.Ameaças e vulnerabilidades.md",
     "().md",
     "Confiden.md",
     "CompTIA Security+",
